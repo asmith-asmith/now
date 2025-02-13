@@ -16,8 +16,8 @@ export default function Page() {
         <h2 className="text-2xl font-medium">About Me</h2>
         <div className="space-y-4 text-gray-600">
           <p>
-            I'm currently a Software Engineer at a large bank. Previously, I worked in the healthcare space in the lab
-            automation space as well as the drug research space.
+            I'm currently a Software Engineer at a large bank. Previously, I worked in the healthcare space in lab
+            automation as well as drug research.
           </p>
           <p>
             I'm interested in things. Here are my current favorite{" "}
