@@ -41,39 +41,54 @@ const categories = [
     title: "Current Favorites",
     items: [
       {
-        title: "Circles",
-        artist: "Mac Miller",
-        url: "#",
+        title: "SOS",
+        artist: "SZA",
+        url: "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG",
       },
       {
-        title: "Blue",
-        artist: "Joni Mitchell",
-        url: "#",
+        title: "the record",
+        artist: "boygenius",
+        url: "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI",
       },
       {
-        title: "In Rainbows",
-        artist: "Radiohead",
-        url: "#",
+        title: "Desire, I Want To Turn Into You",
+        artist: "Caroline Polachek",
+        url: "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q",
+      },
+      {
+        title: "Mr. Morale & The Big Steppers",
+        artist: "Kendrick Lamar",
+        url: "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX",
       },
     ],
   },
   {
-    title: "Classic Albums",
+    title: "Deep Work / Focus",
+    items: [
+      {
+        title: "Ambient 1: Music for Airports",
+        artist: "Brian Eno",
+        url: "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa",
+      },
+      {
+        title: "Sleep",
+        artist: "Max Richter",
+        url: "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1",
+      },
+    ],
+  },
+  {
+    title: "All‑time Essentials",
     items: [
       {
         title: "Kind of Blue",
         artist: "Miles Davis",
-        url: "#",
+        url: "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA",
       },
       {
-        title: "Abbey Road",
-        artist: "The Beatles",
-        url: "#",
-      },
-      {
-        title: "What's Going On",
-        artist: "Marvin Gaye",
-        url: "#",
+        title: "In Rainbows",
+        artist: "Radiohead",
+        url: "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK",
       },
     ],
   },
