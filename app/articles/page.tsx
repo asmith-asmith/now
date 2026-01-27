@@ -32,32 +32,75 @@ export default function ArticlesPage() {
 
 const articles = [
   {
-    title: "The Friendship That Made Google Huge",
-    source: "The New Yorker",
-    url: "https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge",
+    title:
+      "Generative agents will change our society in weird, wonderful and worrying ways. Can philosophy help us get a grip on them?",
+    source: "Aeon",
+    url: "https://aeon.co/essays/can-philosophy-help-us-get-a-grip-on-the-consequences-of-ai",
     description:
-      "An fascinating look at the partnership between Jeff Dean and Sanjay Ghemawat, whose close collaboration helped make Google what it is today.",
+      "Seth Lazar maps how generative AI agents might reshape social life, then argues that philosophy is one of the few tools we have to reason about those shifts in advance.",
   },
   {
-    title: "How Music Affects Your Brain",
-    source: "Scientific American",
-    url: "https://www.scientificamerican.com/article/music-and-the-brain-2006-09/",
+    title: "Why ‘open’ AI systems are actually closed, and why this matters",
+    source: "Nature",
+    url: "https://www.nature.com/articles/s41586-024-08141-1",
     description:
-      "A deep dive into the neuroscience of music and its profound effects on our emotions, memory, and cognitive function.",
+      "Unpacks how big tech has ‘open‑washed’ AI, showing that openness alone doesn’t fix power concentration or give real leverage to researchers and the public.",
   },
   {
-    title: "What Problems to Solve",
-    source: "Richard Feynman",
-    url: "http://genius.cat-v.org/richard-feynman/writtings/letters/problems",
+    title: "Artificial Intelligence and the limits of reason: a framework for responsible use in public and private sectors",
+    source: "Nature Humanities & Social Sciences Communications",
+    url: "https://www.nature.com/articles/s41599-025-05749-0",
     description:
-      "",
+      "Argues that today’s systems lack key human reasoning capacities and proposes a pragmatic framework for deciding where AI belongs—and doesn’t—in public and private decision‑making.",
   },
     {
-    title: "Thoughts on Thinking",
-    source: "Dustin Curtis",
-    url: "https://dcurt.is/thinking",
+    title: "We need a new ethics for a world of AI agents",
+    source: "Nature",
+    url: "https://www.nature.com/articles/d41586-025-02454-5",
     description:
-      "",
+      "Sketches what an ethics tailored to long‑lived, semi‑autonomous AI agents might look like, focusing on relationships, accountability, and coordination.",
+  },
+  {
+    title: "AI is transforming the economy — understanding its impact requires both data and imagination",
+    source: "Nature",
+    url: "https://www.nature.com/articles/d41586-025-04053-w",
+    description:
+      "Daniel Björkegren surveys wildly divergent GDP forecasts for AI and makes the case that economists need both better data and more imaginative models.",
+  },
+  {
+    title: "Datacenter Industry Model",
+    source: "SemiAnalysis",
+    url: "https://www.semianalysis.com/p/datacenter-model",
+    description:
+      "A deep, model‑driven breakdown of how AI data centers actually make money, from GPUs and power to utilization and hyperscaler capex.",
+  },
+  {
+    title: "The $600 Billion Silicon Supercycle: How AI Infrastructure is Powering the 2026 Market Surge",
+    source: "MarketMinute / Wedbush Securities",
+    url: "https://investor.wedbush.com/wedbush/article/marketminute-2026-1-2-the-600-billion-silicon-supercycle-how-ai-infrastructure-is-powering-the-2026-market-surge",
+    description:
+      "Connects the headline $600B hyperscaler capex number to a broader thesis about AI infrastructure as the engine of current equity markets.",
+  },
+  {
+    title: "We need accountability in human–AI agent relationships",
+    source: "Nature AI Ethics",
+    url: "https://www.nature.com/articles/s44387-025-00041-7",
+    description:
+      "Zooms in on what responsibility and accountability should look like when people form ongoing relationships with AI agents.",
+  },
+  {
+    title: "If AIs can feel pain, what is our responsibility towards them?",
+    source: "Aeon",
+    url: "https://aeon.co/essays/if-ais-can-feel-pain-what-is-our-responsibility-towards-them",
+    description:
+      "Pushes on the unsettling question of artificial suffering and what moral status increasingly complex AI systems might deserve.",
+  },
+  {
+    title: "Open source AI isn’t truly open — here’s how researchers can reclaim the term",
+    source: "Nature",
+    url: "https://www.nature.com/articles/d41586-025-00930-6",
+    description:
+      "Pairs well with the ‘open‑washing’ critique, offering a concrete taxonomy and arguing for a stricter, more useful definition of open AI.",
   },
 ]
 
